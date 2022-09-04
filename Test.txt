@@ -1,0 +1,2 @@
+This message from Client
+Testing for server-client implementation
